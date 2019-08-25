@@ -1,0 +1,5 @@
+orbs:
+  material: 'EYE_OF_ENDER'
+  name: '&cDamage Orb: &6Level %level%'
+  lore:
+    - '&7Apply to an item to increase its base damage.'

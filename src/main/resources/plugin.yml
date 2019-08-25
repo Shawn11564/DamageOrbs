@@ -1,0 +1,5 @@
+name: DamageOrbs
+version: ${project.version}
+main: dev.mrshawn.damageorbs.DamageOrbs
+prefix: ArmorOrbs
+authors: [MrShawn]
