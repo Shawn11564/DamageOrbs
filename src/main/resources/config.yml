@@ -3,3 +3,6 @@ orbs:
   name: '&cDamage Orb: &6Level %level%'
   lore:
     - '&7Apply to an item to increase its base damage.'
+# Messages
+give-orb-message: '&aSuccessfully given a level %level% Damage Orb to %player%!'
+apply-orb-message: '&aSuccessfully applied a level %level% Damage Orb to your item!'
